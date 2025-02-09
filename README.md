@@ -1,6 +1,6 @@
 ##### Hello there!
 - 👋 Hi, I’m @Bitaniyagetu.
-- ✧🗒 I study Computer Science at Marist College, New York.
+- ✧🗒 I study Computer Science at Howard University, Washington, D.C.
 - 👀 I’m interested in web development and machine learning.
 - 🌱 I’m currently learning JavaScript, C++, and improving my data science skills.
 - 💞️ I’m looking to collaborate on open-source projects related to environmental sustainability and documentation.
